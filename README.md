@@ -79,12 +79,6 @@ Development Change Analysis: Onigbongbo LCDA (2016–2026)
    - Compare 2026 satellite composite dates
    - Validate against ground-truth data
 
-3. **Possible next steps:**
-   - Lower NDBI threshold to -0.05 or -0.1 (more sensitive)
-   - Compare individual years (not annual composites)
-   - Inspect raw Landsat bands for anomalies
-
----
 
 ## Methodology
 
